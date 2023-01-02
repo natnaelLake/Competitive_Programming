@@ -1,4 +1,4 @@
-selectionSort(arr,n){
+function selectionSort(arr,n){
     //code here
     var str = '';
     for(var i = 1;i<=n;i++){

@@ -1,4 +1,4 @@
-unction insertionSort1(n, arr) {
+function insertionSort1(n, arr) {
     // Write your code here
     var temp,str = "";
     for(var i = n-1;i>=0;i--){
