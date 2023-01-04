@@ -11,5 +11,3 @@ def mergeIntervals(intervals):
     print("The Merged Intervals are :", end=" ")
     for i in range(len(stack)):
         print(stack[i], end=" ")
-arr = [[6, 8], [1, 9], [2, 4], [4, 7]]
-mergeIntervals(arr)
